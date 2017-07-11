@@ -1,5 +1,5 @@
 {
-  "name": "react-native-spinkit",
+  "name": "@2hats/react-native-spinkit",
   "version": "1.0.3",
   "description": "A collection of animated loading indicators for React Native",
   "main": "index.js",
